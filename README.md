@@ -12,7 +12,7 @@ Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree
 
 ### Additional Details
 
-- Last updated: Wed, 07 Jul 2021 17:33:48 GMT
+- Last updated: Thursday, 25 Jul 2024 14:00:00 GMT
 - Dependencies: [@types/webpack](https://npmjs.com/package/@types/webpack), [@types/react](https://npmjs.com/package/@types/react)
 - Global values: `LoadableExport`
 
